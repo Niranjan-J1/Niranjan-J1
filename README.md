@@ -8,7 +8,7 @@ Computer Engineering student at the University of Waterloo
 
 📚 I care deeply about learning fundamentals and applying them through hands-on projects.I try to reason from first principles and improve through iteration.
 
-💡 I’m always looking to learn more — whether that’s new systems concepts, better debugging techniques, or how large software projects are designed and maintained in practice.
+💡 I’m always looking to learn more, whether that’s new systems concepts, better debugging techniques, or how large software projects are designed and maintained in practice.
 
 📍 Based in Ontario, Canada
 
