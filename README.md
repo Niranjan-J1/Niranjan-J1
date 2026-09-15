@@ -2,13 +2,19 @@
 
 👋 Hi, I’m Niranjan!
 
-Computer Engineering student at the University of Waterloo
+**Computer Engineering @ the University of Waterloo**
 
-⚙️ I’m interested in systems programming, performance-oriented software, and applied machine learning. I enjoy working close to the hardware, understanding how software behaves under real-world constraints, and building systems that are correct, efficient, and predictable.
+I enjoy building **performance-oriented software at the intersection of systems, machine learning, and hardware**. I like understanding how things work under the hood and turning that understanding into practical, efficient systems.
 
-📚 I care deeply about learning fundamentals and applying them through hands-on projects.I try to reason from first principles and improve through iteration.
+### Currently interested in
 
-💡 I’m always looking to learn more, whether that’s new systems concepts, better debugging techniques, or how large software projects are designed and maintained in practice.
+* ⚡ **Efficient ML Systems & LLM Inference**
+* 🧠 **Model Quantization & Optimization**
+* 🖥️ **GPU Computing & High-Performance Systems**
+* 🔧 **C++ & Low-Level Software**
+* 🤖 **Embedded Systems & Edge AI**
+* 🔬 **AI Systems Research**
+
 
 📍 Based in Ontario, Canada
 
