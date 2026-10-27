@@ -6,16 +6,6 @@
 
 I enjoy building **performance-oriented software at the intersection of systems, machine learning, and hardware**. I like understanding how things work under the hood and turning that understanding into practical, efficient systems.
 
-### Currently interested in
-
-* ⚡ **Efficient ML Systems & LLM Inference**
-* 🧠 **Model Quantization & Optimization**
-* 🖥️ **GPU Computing & High-Performance Systems**
-* 🔧 **C++ & Low-Level Software**
-* 🤖 **Embedded Systems & Edge AI**
-* 🔬 **AI Systems Research**
-
-
 📍 Based in Ontario, Canada
 
 💬 Connect with me  
